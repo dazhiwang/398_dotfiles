@@ -1,0 +1,5 @@
+# CAEN
+Host dazhi
+  HostName login.engin.umich.edu
+  User dazhi
+  Compression yes
